@@ -4,7 +4,7 @@ export default function Header(){
             <h1 className="text-xl font-bold text-gray-800">
                 File Layout Coordinate Mapper
             </h1>
-            <nav className="space-x-4 text-sm">
+            {/* <nav className="space-x-4 text-sm">
                 <a
                     href="https://github.com/engiecodes/coordinate-mapper"
                     target="_blank"
@@ -13,7 +13,7 @@ export default function Header(){
                 >
                     GitHub
                 </a>
-            </nav>
+            </nav> */}
         </header>
     );
 }
